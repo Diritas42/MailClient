@@ -92,7 +92,6 @@ PrepareHeader → PrepareBody → PrepareSignature → AddAttachments → Send
 
 ### 1. Template Method — три типа писем с общим порядком шагов
 
-![Вывод: разные типы писем]
 
 <img width="919" height="806" alt="изображение" src="https://github.com/user-attachments/assets/53fa54ab-4b71-4475-93aa-922b06d5e8ba" />
 
@@ -104,7 +103,6 @@ PrepareHeader → PrepareBody → PrepareSignature → AddAttachments → Send
 
 ### 2. Memento — сохранение и восстановление черновика
 
-![Вывод: сохранение и откат черновика]
 
 <img width="685" height="784" alt="изображение" src="https://github.com/user-attachments/assets/15e189bc-0e19-4223-bb30-02c68557370e" />
 
