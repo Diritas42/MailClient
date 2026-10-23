@@ -118,7 +118,7 @@ PrepareHeader → PrepareBody → PrepareSignature → AddAttachments → Send
 Требуется [.NET SDK 8.0](https://dotnet.microsoft.com/download) или новее.
 
 ```bash
-git clone <URL-репозитория>
+git clone https://github.com/Diritas42/MailClient.git
 cd MailClient
 dotnet run
 ```
